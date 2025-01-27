@@ -1,0 +1,26 @@
+.administracao{
+    font-size: 30px;
+    font-family: 'poppins', sans-serif;
+}
+
+body {
+    background: url(../images/about-bg.jpg);
+    background-size: 100% 100%;
+    background-repeat: repeat;
+    background-position: center center;
+    padding: 90px 0px;
+}
+
+.fonte{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    padding: 3px;
+}
+
+.tabela{
+    background-color: rgba(102,255,255,0.7);
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
